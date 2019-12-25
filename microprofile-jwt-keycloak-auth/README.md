@@ -12,3 +12,6 @@ Steps to run this project:
 8. Build and run the backend application: `cd backend` -> `buildAndRun.bat` or `buildAndRun.sh`
 9. Visit `http://localhost:3000` and login with the created user
 10. Hit the `Access REST API` button and try to get the secured message
+
+
+Référence https://rieckpil.de/howto-microprofile-jwt-authentication-with-keycloak-and-react/
